@@ -1,6 +1,6 @@
 {
-    "name": "artemsway/parser1c",
-    "homepage": "https://github.com/artemsway/parser1c",
+    "name": "ipshenicyn/parser1c",
+    "homepage": "https://github.com/ipshenicyn/parser1c",
     "description": "Package for parsing CommerceML2 files.",
     "keywords": ["parser", "commerceml", "1c"],
     "license": "MIT",
@@ -9,7 +9,12 @@
             "homepage": "https://github.com/ArtemsWay",
             "name": "Artem Miroshnichenko",
             "email": "artemsway@gmail.com"
-        }
+        },
+        {
+            "homepage": "https://github.com/ipshenicyn",
+            "name": "Ivan Pshenitsyn",
+            "email": "ivan.pshenicyn@gmail.com"
+        },
     ],
     "autoload": {
         "psr-4": {
