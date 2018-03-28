@@ -11,12 +11,12 @@
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/ArtemsWay/parser1c"
+        "url": "https://github.com/ipshenicyn/parser1c"
     }
 ],
 "require": {
 
-    "artemsway/parser1c": "dev-master"
+    "ipshenicyn/parser1c": "dev-master"
 },
 ```
 

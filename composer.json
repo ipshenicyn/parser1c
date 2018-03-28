@@ -14,7 +14,7 @@
             "homepage": "https://github.com/ipshenicyn",
             "name": "Ivan Pshenitsyn",
             "email": "ivan.pshenicyn@gmail.com"
-        },
+        }
     ],
     "autoload": {
         "psr-4": {
